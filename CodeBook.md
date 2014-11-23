@@ -2,6 +2,7 @@ DATA DICTIONARY
 Human Activity Recognition Using Smartphones
 
  [1] “subject_id”   -   size 1, values 1-30
+ 
  [2] "activity_id"  -   size 1, values 1-6                                     
  [3] "activity_name" -   values
           WALKING
